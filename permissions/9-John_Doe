@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod [-fhR] 025 hello
+chmod [-fhR] 064 hello
