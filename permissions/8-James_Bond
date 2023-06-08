@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+7
+chmod o+7 hello
