@@ -1,2 +1,2 @@
-#!/bin/bash
-find . −type -d -empty | tr "./"  "name" 
+0;10;1c#!/bin/bash
+find . −type -d -empty | tr "."  "name" 
