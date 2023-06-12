@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -R | find * -empty | rev | cut -d '/' -f5 | rev
+ls -lR | find * -empty | rev | cut -d '/' -f5 | rev
