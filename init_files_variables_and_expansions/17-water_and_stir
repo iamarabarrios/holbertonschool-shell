@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((water+stir))> bestchol
+echo $("ibase=water; $WATER" | bc) + $("ibase=stir; $STIR" | bc) = $("ibase=bestchol")
