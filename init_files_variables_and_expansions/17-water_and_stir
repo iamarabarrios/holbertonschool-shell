@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $("ibase=water, $WATER" | bc) + $("ibase=stir, $STIR" | bc) = $("ibase=bestchol")
+echo $((30012402303 + 12421231313)) >> ibase=bestchol
