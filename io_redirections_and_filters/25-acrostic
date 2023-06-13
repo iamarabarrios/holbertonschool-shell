@@ -1,2 +1,2 @@
 #!/bin/bash
-awk : awk'{print $1}' An\ Acrostic
+echo $(cut -c1 | tr -d "\n") 
