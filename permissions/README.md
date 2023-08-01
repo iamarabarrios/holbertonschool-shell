@@ -1,7 +1,7 @@
-Resources:
+**Resources:**
 Permissions
 
-man or help:
+**man or help:**
 chmod
 sudo
 su
@@ -14,10 +14,10 @@ adduser
 useradd
 addgroup
 
-Learning Objectives:
+**Learning Objectives:**
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-Permissions:
+**Permissions:**
 What do the commands chmod, sudo, su, chown, chgrp do
 Linux file permissions
 How to represent each of the three sets of permissions (owner, group, and other) as a single digit
@@ -26,14 +26,14 @@ Why can’t a normal user chown a file
 How to run a command with root privileges
 How to change user ID or become superuser
 
-Other Man Pages:
+**Other Man Pages:**
 How to create a user
 How to create a group
 How to print real and effective user and group IDs
 How to print the groups a user is in
 How to print the effective userid
 
-Requirements:
+**Requirements:**
 Allowed editors: vi, vim, emacs
 All your scripts will be tested on Ubuntu 20.04 LTS
 All your scripts should be exactly two lines long ($ wc -l file should print 2)
